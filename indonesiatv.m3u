@@ -17,4 +17,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="NEWS",NHK | JPN
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1  group-title="NEWS",CNA | SIN
+https://mediacorp-videosbclive.akamaized.net/310fff74530047d29076136efeabe72c/ap-southeast-1/6057994443001/profile_2/chunklist.m3u8
  
