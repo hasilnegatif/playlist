@@ -76,5 +76,5 @@ https://www.ast.tv/stream/2/low.m3u8
 #EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Shemale Tube TV 2 HD (18+)
 https://www.ast.tv/stream/2/ultra.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-country="US" tvg-url="" group-title="MOVIES",American Horrors
+#EXTINF:-1 group-title="MOVIES",American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
