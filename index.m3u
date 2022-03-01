@@ -1,14 +1,22 @@
 #EXTM3U 
-#EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Jasmin TV HD (18+)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Extacy HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",BIKINI CHANNEL
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Jasmine TV (18+)
+http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Miami TV (18+)
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 #EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Miami TV Jenny For You (18+)
 http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Miami TV Jenny Live (18+)
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Rouge TV
+https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Miami TV Promo (18+)
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8
+#EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Fashion Midnight Secret
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Asian HD 18+
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Adult IPTV Anal (21+)
@@ -67,3 +75,6 @@ https://www.ast.tv/stream/1/ultra.m3u8
 https://www.ast.tv/stream/2/low.m3u8
 #EXTINF:-1 group-title="18+" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600",Shemale Tube TV 2 HD (18+)
 https://www.ast.tv/stream/2/ultra.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-country="US" tvg-url="" group-title="MOVIES",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
