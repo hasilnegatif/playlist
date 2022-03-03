@@ -39,6 +39,7 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 #EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="Entertainment",Entertainment Tonight (1080p)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
+
 #EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/z3ALZQQ.jpg" group-title="Movies",Bflix Movies (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Movies",CineLife (1080p)
@@ -83,6 +84,11 @@ https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
 https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="Movies",American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df6d8ec9c645c921ecaa3 group-title="Movies",Local Now 2010's 
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b group-title="Movies",Local Now Andrenaline 
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720_m.m3u8
+
 
 
 
@@ -111,8 +117,12 @@ https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1  group-title="Musics",DeeJay TV
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1  group-title="Musics",STINGRAY MUSIC
+#EXTINF:-1  tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Musics",STINGRAY MUSIC
 https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Musics",STINGRAY ALTERNATIVE
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Musics",STINGRAY HITS
+https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
 #EXTINF:-1  group-title="Musics",Muzzik Mediteranio Serbia
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 #EXTINF:-1  group-title="Musics",SKYFOLK
@@ -121,10 +131,28 @@ https://skyfolk.mk/live.m3u8
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1  group-title="Musics",Óčko HITY
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1  group-title="Musics",SLUHAY BY
+#EXTINF:-1  tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="Musics",SLUHAY BY
 https://sluhay.by/live/Ch149pub/index.m3u8
+#EXTINF:-1  tvg-logo="https://sluhay.by/assets/logo_channel.png" group-title="Musics",SLUHAY BY POP
+https://sluhay.by/live/Ch066pub/index.m3u8
 #EXTINF:-1  group-title="Musics",Metal TV
 https://v2.catcast.tv/content/33816/index.m3u8
+#EXTINF:-1  group-title="Musics",Metal TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musics",Muzzik Hip Hop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musics",Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musics",Muzzik Cafe Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musics",Muzzik AMVA
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="Musics",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/guHWZwP.jpg" group-title="Musics",ActivaTv
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/guHWZwP.jpg" group-title="Musics",VEVO HIPHOP
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 
 
 
