@@ -31,25 +31,60 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="CNNPhilippines.us" tvg-country="PH" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/220px-CNN_Philippines_Logo.svg.png" group-title="News",CNN Philippines (720p) [Not 24/7]
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPhilippines.us" tvg-country="PH" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/220px-CNN_Philippines_Logo.svg.png" group-title="News",CNN Philippines (720p) [Not 24/7]
+https://live.cnnindonesia.com/livecnn/cnntv.smil/.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="News",EURONEWS
+https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="News",India Today (720p) 
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="News",MarTV
+http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
 
 #EXTINF:-1 tvg-id="ColosalTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/4kxxSCq.png" group-title="Entertainment",Colosal TV (720p) 
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="Entertainment",Entertainment Tonight (1080p)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
+#EXTINF:-1 group-title="Lifestyle",Cinelife
+https://dai.google.com/linear/hls/pb/event/PFJ1Jhd6SsSMcu3qq86wzQ/stream/4c0d740f-2866-4c62-bd4e-bd4b5d28428a:SIN/variant/415d097f2e31da4e94a9be53239564a8/bandwidth/5058864.m3u8
+#EXTINF:-1 group-title="Lifestyle",CinePride
+https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
+#EXTINF:-1 group-title="Lifestyle",Fail Army
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 group-title="Lifestyle",Baywatch
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Sciene",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nasa-tv-globe-logo-us.png" group-title="Sciene",NASA
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="Sciene",Magellan TV
+https://magellantv-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sciene",DUST TV
+https://dust-samsung-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sciene",FUTURISM
+https://futurism.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Sciene",UNIDENTIFIED
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/z3ALZQQ.jpg" group-title="Movies",Bflix Movies (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 group-title="Movies",SYFY
+https://cdn1-7p.teleuptv.net/1d4c0b1d-36b4-4750-ac60-52f2ecfde725/index.m3u8
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Movies",CineLife (1080p)
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="Movies",Cinevault 80s (540p)
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="Movies",Classic Cinema (240p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
+#EXTINF:-1 group-title="Movies",The Film Detective
+https://filmdetective-stirr.amagi.tv/index.m3u8
+#EXTINF:-1 group-title="Movies",Samuel Goldwyn
+https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmHub.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQkhR58.png" group-title="Movies",Film Hub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmHub.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQkhR58.png" group-title="Movies",Movie Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" group-title="Movies",FilmRise Action (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/filmrise-classics-us.png" group-title="Movies",FilmRise Classic TV (720p)
@@ -88,10 +123,26 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist_1280x720_m.m3u8
 #EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b group-title="Movies",Local Now Andrenaline 
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 group-title="Movies",Mega Cine TV
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+#EXTINF:-1 group-title="Movies",FX TV
+https://cdn1-6p.teleuptv.net/550a56d1-6480-41c7-9bad-371352b6b2fc/index.m3u8
 
-
-
-
+#EXTINF:-1  group-title="Sports",Adventures TV
+https://giz.poppo.tv/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1  group-title="Sports",All Sport
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1  group-title="Sports",Sky Racing
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Sports",Motor TV
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="Sports",TVS BOXING
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+#EXTINF:-1  group-title="Sports",ROH
+https://stadium-ringofhonor-1-us.sinclair.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo=https://web.opendrive.com/api/v1/download/file.json/MF8yMzA3OTUzMjRf?inline=1" group-title="Sports",HARD KNOCK
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FmrR2Hy.png" group-title="Sports",Dubai Racing 2 (1080p)
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing 3 (1080p)
@@ -106,9 +157,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="Sports",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="Sports",IMPACT! Wrestling backup
+https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/81448/s81448_h3_aa.png" group-title="Sports",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
+#EXTINF:-1  group-title="Musics",KPOP Musics
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1  group-title="Musics",Watch Muzzik (1080p)
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1  group-title="Musics",ONE1
@@ -153,6 +208,16 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/guHWZwP.jpg" group-title="Musics",VEVO HIPHOP
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1  group-title="Musics",POWER HD
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
+#EXTINF:-1  group-title="Musics",HITS 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1  group-title="Musics",LLM
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/.m3u8
+#EXTINF:-1  group-title="Musics",HQm RELAX
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/index-f3-v1-a1.m3u8
+#EXTINF:-1  group-title="Musics",OXIGENO
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 
 
 
